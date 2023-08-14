@@ -3,4 +3,4 @@
 const myVar = 'JavaScript is amazing';
 
 // displaying output
-console.log (myVar);
+console.log(myVar);
