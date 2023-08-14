@@ -5,4 +5,4 @@ let python = 'Python is cool';
 let js = 'JavaScript is amazing';
 
 // displaying output
-console.log(c + '\n' + python + '\n' + js);
+console.log (c + '\n' + python + '\n' + js);
